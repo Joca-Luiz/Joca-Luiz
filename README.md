@@ -1,9 +1,19 @@
-- 👋 Olá meu nome e João Luiz, eu tenho 13 anos e tenho o sonho de ser progamador!
-- 👀 Eu gosto de aprender sobre Full-Stack e de vez em quando redes neurais mas nunca fiz uma.
-- 🌱 No momento estou aprendendo React com Next.js, pelo visto ta sendo algo que ta cresendo muito esses dias
-- 💞️ Eu sempre quis trabalhar com uma empresa grande, mas ainda não sei qual
+<h1>Olá, me chamo João Luiz</h1>
+<hr/>
+<p>Meu nome e João Luiz mas pode me chamar só de João ou como vc preferir, atualmente estou focado na areá de web e estudando React com Next.js!</p>
+<ul>
+  <li>13 anos</li>
+  <li>Full-Stack</li>
+  <li>Principal projeto: <a href="http://jlpradoneiva.com.br/">site</a></li>
+</ul>
+<hr />
+<h2>Outros Projetos:</h2>
+...
+<h2>Contato:</h2>
+  <strong>Gmail: </strong><label>jlpradoneiva@gmail.com</label>
+<h2>Idiomas</h2>
+<ul>
+  <li>Pt-br</li>
+  <li>Aprendendo Ingles(Não me garanto ainda)</li>
+<ul>
 
-<!---
-Joca-Luiz/Joca-Luiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
