@@ -4,7 +4,6 @@
 <ul>
   <li>13 anos</li>
   <li>Full-Stack</li>
-  <li>Principal projeto: <a href="http://jlpradoneiva.com.br/">site</a></li>
 </ul>
 <hr />
 <h2>Outros Projetos:</h2>
